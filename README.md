@@ -1,4 +1,4 @@
-# Projeto_TFT
+# Projeto
 Projeto proposto no segundo semestre de Análise e Desenvolvimento de Sistemas pela matéria de Linguagem de Programação.
 
 A ideia era desenvolver 3 sites interconectados por formulários HTML e lidar com os valores de tais formulários com linguagem PHP.
